@@ -1,0 +1,13 @@
+.row {
+  display: flex;
+  gap: 100px;
+}
+
+.row h1 {
+  font-size: 24px;
+  font-weight: 300;
+}
+
+.col {
+  flex: 1;
+}
